@@ -2,6 +2,7 @@
 
 This Money Manager-application Eases to Track and Manage Income and Expense of the User. It Stores the Data Locally, User can Create income and Expense Categories with Custom names and Descriptions. And View the Transaction Histories by Category.User can also get the monthly total Income, Expense and Balance
 
+![BeFunky-collage](https://user-images.githubusercontent.com/97301904/151717011-aa4e25c7-df0d-415e-b0db-a2efac3209cb.jpg)
 
 ## Getting Started
 
